@@ -1,0 +1,6 @@
+1.list=['a','b','c','d']
+  print (list) 
+2.tup2=(1,2,3,4)
+  print(tup2[0])
+3.dict={'a','b','c'}
+  dict.pop()
